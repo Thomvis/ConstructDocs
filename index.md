@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: false
-excerpt: "[![](/assets/images/appstore-badge.svg)](http://www.thomvis.nl)"
+excerpt: "[![](/assets/images/appstore-badge.svg)](https://apps.apple.com/us/app/id1490015210&mt=8)"
 header:
   overlay_image: /assets/images/home-header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
