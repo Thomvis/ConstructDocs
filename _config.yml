@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Construct D&D 5e
-email: hello@thomasvisser.me
+email: hello@construct5e.app
 description: >- # this means to ignore newlines until "baseurl:"
   Construct turns your iPhone into an encounter builder & tracker 
   for 5th edition D&D.
